@@ -1,7 +1,7 @@
 ---
-company: "Google"
-role: "Staff Software Engineer"
-dateStart: "11/27/2022"
+company: "Optare Solutions"
+role: "DevOps Engineer / Site Reliability Engineer"
+dateStart: "02/01/2023"
 dateEnd: "Now"
 ---
 

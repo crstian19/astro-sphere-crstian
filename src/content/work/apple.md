@@ -1,11 +1,18 @@
 ---
-company: "Apple"
-role: "Software Engineer"
-dateStart: "01/01/2020"
-dateEnd: "11/27/2022"
+company: "Bemyvega"
+role: "DevOps Engineer"
+dateStart: "03/01/2021"
+dateEnd: "11/27/2021"
 ---
 
-Voluptatem est quaerat voluptas praesentium ipsa dolorem dignissimos nulla ratione distinctio quae maiores eligendi nostrum? Quibusdam, debitis voluptatum, lorem ipsum dolor. Sit amet consectetur adipisicing elit. Iure illo neque tempora.
+- Definition and improvement of CI / CD processes (Gitlab, Drone, Gitea )
 
-- Sit amet consectetur adipisicing elit. Iure illo neque tempora.
-- Quibusdam, debitis voluptatum, lorem ipsum
+- Documentation management (WikiJS)
+
+- Monitoring by Prometheus + Grafana
+
+- Log management through Promtail + Grafana Loki + Grafana
+
+- Container management through Docker with Docker-compose, Traefik as reverse proxy and loadbalancer.
+
+- Tutoring of students in computer engineering internships.
