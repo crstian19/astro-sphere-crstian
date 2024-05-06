@@ -72,10 +72,17 @@ export const SOCIALS: Socials = [
     HREF: "https://www.linkedin.com/in/cristian-gutierrez-lopez/",
   },
   { 
-    NAME: "Twitter",
-    ICON: "twitter-x",
-    TEXT: "Cris_gl19",
-    HREF: "https://twitter.com/Cris_gl19",
+    NAME: "Gitlab",
+    ICON: "gitlab",
+    TEXT: "crstian",
+    HREF: "https://gitlab.com/Crstian",
   },
+  { 
+    NAME: "Mastodon",
+    ICON: "mastodon",
+    TEXT: "crstian",
+    HREF: "https://mastodon.social/@crstian",
+  },
+  
 ]
 
