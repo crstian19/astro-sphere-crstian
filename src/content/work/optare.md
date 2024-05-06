@@ -10,3 +10,6 @@ Sit amet consectetur adipisicing elit. Iure illo neque tempora, voluptatem est q
 - Aadipisicing elit. Iure illo neque tempora, voluptatem est.
 - dolorem dignissimos nulla ratione.
 - Quibusdam, debitis voluptatum, lorem ipsum dolor.
+
+
+<img src="https://images.credly.com/size/340x340/images/f88d800c-5261-45c6-9515-0458e31c3e16/ckad_from_cncfsite.png" alt="CKAD" width="200"/>
